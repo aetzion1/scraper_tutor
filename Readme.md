@@ -1,11 +1,14 @@
 # README
 ## SCRAPER TUTOR
+* Database notes: This app does not use or create a database. It is for educaitonal purposes. Running the existing final python file will create an eggs.csv
  
+### Dependencies
 * Python version: 3
+* Tools Required: 
+  * [requests](https://pypi.org/project/requests/)
+  * bs4 ([BeautifulSoup](https://pypi.org/project/beautifulsoup4/))
+  * [csv](https://docs.python.org/3/library/csv.html)
 
-* Tools Required: requests, bs4 (BeautifulSoup), csv
-
-* Database notes: This app does not use or create a database. I tis for educaitonal purposes. Running the final python file will create an eggs.csv
 
 
 ### How to run the practice file: 
